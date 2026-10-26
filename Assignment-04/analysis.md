@@ -1,6 +1,6 @@
 # Assignment 4 – Analysis
 
-Name: <YOUR NAME>
+Name: Savar Shrestha
 
 ## Problem 1
 

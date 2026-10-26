@@ -1,6 +1,6 @@
 # Assignment 4: Forging Basic CBC-MAC
 
-Name: <YOUR NAME>
+Name: Savar Shrestha
 
 - Language: Python 3.12.3
 - AES library: `cryptography` 46.0.6 (AES-128 in ECB mode, used only to encrypt one 16-byte block per call; the chaining loop is in `cbcmac.py`)
